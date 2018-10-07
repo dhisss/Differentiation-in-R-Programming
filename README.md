@@ -1,7 +1,7 @@
 # Differentiation-in-R-Programming
 This Repository is uploaded for my college task
 
-Made by muhammad irfan(17523149) & Yudhistira Adinugraha Htabarat (17523180)
+Made by Muhammad Irfan(17523149) & Yudhistira Adinugraha Htabarat (17523180)
 
 class : Matematika Lanjut | by :Pak Ahmad Fathan Hidayatullah, S.T.
 
